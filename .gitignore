@@ -1,0 +1,9 @@
+._git
+.idea
+.idea/**
+sample
+node_modules
+node_modules/**
+**/node_modules
+*.log
+**/*.log

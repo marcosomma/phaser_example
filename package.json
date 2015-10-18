@@ -1,0 +1,26 @@
+{
+  "name": "phaser_example",
+  "version": "0.1.0",
+  "description": "Examples of projects for Phaser.io framework",
+  "main": "README.md",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:marcosomma/phaser_example.git"
+  },
+  "keywords": [
+    "game",
+    "framework",
+    "phaserjs",
+    "javascript"
+  ],
+  "author": "Marco Somma",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^6.5.1",
+    "phaser": "^2.4.4",
+    "require": "^2.4.20"
+  }
+}
